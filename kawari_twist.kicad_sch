@@ -966,7 +966,7 @@
     (pin "8" (uuid ac01ee31-e2bd-46dc-b712-5b40d2c56301))
     (pin "9" (uuid 1be80012-d3fc-4e46-8899-e6c33a1dc6d2))
     (instances
-      (project "kawari_twister"
+      (project "kawari_twist"
         (path "/ef44a605-1441-4cb3-aa7c-53cc1cc6b4bd"
           (reference "J2") (unit 1)
         )
@@ -991,7 +991,7 @@
     )
     (pin "1" (uuid d61c5e62-997f-44ab-bc18-fb678ce1f12f))
     (instances
-      (project "kawari_twister"
+      (project "kawari_twist"
         (path "/ef44a605-1441-4cb3-aa7c-53cc1cc6b4bd"
           (reference "#PWR01") (unit 1)
         )
@@ -1055,7 +1055,7 @@
     (pin "8" (uuid bc319cc2-162c-41c0-8cb9-3a871631943a))
     (pin "9" (uuid e0c522e0-c934-4d2f-ba17-5b692597f71d))
     (instances
-      (project "kawari_twister"
+      (project "kawari_twist"
         (path "/ef44a605-1441-4cb3-aa7c-53cc1cc6b4bd"
           (reference "J1") (unit 1)
         )
@@ -1079,7 +1079,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "kawari_twister"
+      (project "kawari_twist"
         (path "/ef44a605-1441-4cb3-aa7c-53cc1cc6b4bd"
           (reference "H1") (unit 1)
         )
